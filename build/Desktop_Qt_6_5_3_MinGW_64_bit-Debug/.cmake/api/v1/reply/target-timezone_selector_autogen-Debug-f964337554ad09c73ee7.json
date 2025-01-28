@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"timezone_selector/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "timezone_selector_autogen_timestamp_deps::@0daa0196e960fbf52e60"
+		}
+	],
+	"id" : "timezone_selector_autogen::@0daa0196e960fbf52e60",
+	"isGeneratorProvided" : true,
+	"name" : "timezone_selector_autogen",
+	"paths" : 
+	{
+		"build" : "timezone_selector",
+		"source" : "timezone_selector"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/timezone_selector/CMakeFiles/timezone_selector_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/timezone_selector/CMakeFiles/timezone_selector_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/timezone_selector/timezone_selector_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

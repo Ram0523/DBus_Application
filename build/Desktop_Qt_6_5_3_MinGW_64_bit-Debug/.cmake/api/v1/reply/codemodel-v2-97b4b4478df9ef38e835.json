@@ -1,0 +1,162 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "digital_clock",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-digital_clock-Debug-45d3bc6f6ce97ca49e23.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "digital_clock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "timezone_selector",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-timezone_selector-Debug-a8ccb2729ce47d620799.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "timezone_selector",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QtClockProject"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "digital_clock",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "timezone_selector",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "digital_clock::@d99947a81fffac4142fb",
+					"jsonFile" : "target-digital_clock-Debug-e30dc46c6fb409800410.json",
+					"name" : "digital_clock",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "digital_clock_autogen::@d99947a81fffac4142fb",
+					"jsonFile" : "target-digital_clock_autogen-Debug-c6bc9568fc8a72807dc3.json",
+					"name" : "digital_clock_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "digital_clock_autogen_timestamp_deps::@d99947a81fffac4142fb",
+					"jsonFile" : "target-digital_clock_autogen_timestamp_deps-Debug-1a54737a2e3adb863d7f.json",
+					"name" : "digital_clock_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "timezone_selector::@0daa0196e960fbf52e60",
+					"jsonFile" : "target-timezone_selector-Debug-e8c8419c03a4dacad84c.json",
+					"name" : "timezone_selector",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "timezone_selector_autogen::@0daa0196e960fbf52e60",
+					"jsonFile" : "target-timezone_selector_autogen-Debug-f964337554ad09c73ee7.json",
+					"name" : "timezone_selector_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "timezone_selector_autogen_timestamp_deps::@0daa0196e960fbf52e60",
+					"jsonFile" : "target-timezone_selector_autogen_timestamp_deps-Debug-be19c886e515b529f572.json",
+					"name" : "timezone_selector_autogen_timestamp_deps",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/workspace/QtClockProject/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "E:/workspace/QtClockProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

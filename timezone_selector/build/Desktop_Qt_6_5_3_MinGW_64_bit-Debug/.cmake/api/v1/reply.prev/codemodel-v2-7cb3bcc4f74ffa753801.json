@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2c30802b73940bdb125c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "timezone_selector",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "timezone_selector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timezone_selector-Debug-c69f40827cb8461c4d9a.json",
+					"name" : "timezone_selector",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timezone_selector_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timezone_selector_autogen-Debug-de7b33ec14f90ad0f58d.json",
+					"name" : "timezone_selector_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timezone_selector_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timezone_selector_autogen_timestamp_deps-Debug-88108b41ef030da88fd7.json",
+					"name" : "timezone_selector_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/workspace/QtClockProject/timezone_selector/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "E:/workspace/QtClockProject/timezone_selector"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

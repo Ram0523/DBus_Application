@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"timezone_selector/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "timezone_selector_autogen_timestamp_deps::@0daa0196e960fbf52e60",
+	"isGeneratorProvided" : true,
+	"name" : "timezone_selector_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "timezone_selector",
+		"source" : "timezone_selector"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

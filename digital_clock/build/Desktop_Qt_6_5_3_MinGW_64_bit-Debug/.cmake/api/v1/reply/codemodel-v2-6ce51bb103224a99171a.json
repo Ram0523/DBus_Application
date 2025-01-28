@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e23dae3efacc06f34ba2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "digital_clock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "digital_clock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digital_clock-Debug-c96bdd134c305b6a629f.json",
+					"name" : "digital_clock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "digital_clock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digital_clock_autogen-Debug-39a76e6d5fa4b7fc4f25.json",
+					"name" : "digital_clock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "digital_clock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-digital_clock_autogen_timestamp_deps-Debug-da2db681e5e8544b2565.json",
+					"name" : "digital_clock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/workspace/QtClockProject/digital_clock/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "E:/workspace/QtClockProject/digital_clock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
